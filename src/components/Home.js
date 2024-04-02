@@ -1,6 +1,6 @@
 // Home.js
 import React from 'react';
-import { name, city } from '../data/data.js'; // Assuming you have imported 'name' and 'city' from your data file
+import { name, city } from '../data/data.js'; 
 
 function Home() {
   return (
